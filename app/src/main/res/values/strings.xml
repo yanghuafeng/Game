@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">萝卜不好吃</string>
+
+    <string name="game_over">game over</string>
+
+    <string name="end">通关了！</string>
+    <string name="account">你的分数是："%1$d" - "%2$d"</string>
+    <string name="cheat">作弊</string>
+    <string name="start">开始</string>
+    <string name="exit">退出</string>
+    <string name="play_again">不服再来</string>
+    <string name="cancle">取消</string>
+    <string name="password_false">密码错了，猪头！</string>
+    <string name="password_right">密码正确，已开启！</string>
+</resources>
