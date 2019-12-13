@@ -31,8 +31,9 @@ public class BaseApplication extends Application {
         SoundPoolManager.getInstance().init();
     }
 
-    public static boolean getCanJump() {
-        return canJump;
+    public static boolean getCanJump(){
+
+            return canJump;
     }
 
     public static void setCanJump(boolean b) {
