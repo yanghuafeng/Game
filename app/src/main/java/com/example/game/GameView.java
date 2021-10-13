@@ -27,7 +27,7 @@ public class GameView extends View {
     private final int CELL_WIDTH = 120;
     private final int MAX_LEVEL = 6;
     private final int MAX_MISSION = 3;
-    private final int END = 9;
+    private final int END = 9;//最后level的missison
     private final int CELL_MARGIN = 1;
     private Paint paint = new Paint();
     private Bitmap cell;

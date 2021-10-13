@@ -32,8 +32,7 @@ public class BaseApplication extends Application {
     }
 
     public static boolean getCanJump(){
-
-            return canJump;
+        return canJump;
     }
 
     public static void setCanJump(boolean b) {
