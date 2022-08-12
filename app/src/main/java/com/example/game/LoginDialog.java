@@ -14,8 +14,8 @@ import android.widget.Toast;
 
 public class LoginDialog extends Dialog implements View.OnClickListener {
     private EditText text;
-    private final String jumpPassword = "jump";
-    private final String cheatPassword = "cheat";
+    private final String jumpPassword = "yhf";
+    private final String cheatPassword = "yhf";
     private LoginType type ;
 
     public LoginDialog(Context context,LoginType t) {
